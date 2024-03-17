@@ -1,0 +1,3 @@
+pdf2docx>=0.5.8
+pypandoc>=1.3.0
+
